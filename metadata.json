@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Modelo Predictivo IA - Consumo Energético Centros de Datos Bogotá 2030 (CUN)",
+  "description": "Dashboard de Ingeniería de Software para la visualización integral del anteproyecto: Modelo predictivo de IA para pronosticar el consumo energético en centros de datos de Bogotá hacia el 2030 (CUN - Ingeniería de Sistemas).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
